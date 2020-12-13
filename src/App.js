@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react"
 
-import './App.css';
-import 'fontsource-roboto';
-import './assets/scss/style.scss';
+import "./App.css"
+import "fontsource-roboto"
+import "./assets/scss/style.scss"
 
 import Grid from "@material-ui/core/Grid"
 import Button from "@material-ui/core/Button"
@@ -12,7 +12,7 @@ import Typography from "@material-ui/core/Typography"
 
 function App() {
   const handlePredict = () => {
-    alert('Hai sayang')
+    alert("Hai sayang")
   }
 
   return (
@@ -20,10 +20,10 @@ function App() {
       <div className="auth-wrapper">
         <div className="auth-content">
           <div className="auth-bg">
-              <span className="r s"/>
-              <span className="r s"/>
-              <span className="r s"/>
-              <span className="r"/>
+            <span className="r s" />
+            <span className="r s" />
+            <span className="r s" />
+            <span className="r" />
           </div>
           <Container>
             <Grid container spacing={3} justify="center" my={10}>
@@ -60,7 +60,7 @@ function App() {
         </div>
       </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
