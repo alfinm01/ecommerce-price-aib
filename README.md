@@ -1,7 +1,7 @@
 # E-commerce Profit Prediction
 Front-end for e-commerce profit prediction\
 Mata Kuliah II4042 Kecerdasan Buatan untuk Bisnis\
-Deployed application: [https://ecommerce-price-aib.netlify.app](https://ecommerce-price-aib.netlify.app)\
+Deployed application: [https://ecommerce-profit-aib.netlify.app](https://ecommerce-profit-aib.netlify.app)\
 \
 **Group**:
 1. Ariq Radhitama Ariasatya - 18217017
