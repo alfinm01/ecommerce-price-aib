@@ -1,5 +1,5 @@
 const API = {
-  backend: "https://ecommerce-price-aib.herokuapp.com/",
+  backend: "https://ecommerce-profit-aib.herokuapp.com/",
 }
 
 /* const API = {
